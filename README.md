@@ -160,3 +160,9 @@ func longPressGestureRecognized(longPress: UILongPressGestureRecognizer) {
 
 ## Demo
 You can download the demo.
+
+##Contact Info
+
+Email me at [bhaveshtandel17@gmail.com](mailto:bhaveshtandel17@gmail.com).
+
+[MIT License](https://github.com/bhaveshtandel17/MovableTableViewCell/blob/master/LICENSE)

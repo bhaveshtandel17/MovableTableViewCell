@@ -1,4 +1,4 @@
-# MovableTableViewCell
+# MovableTableViewCell :smile:
 In this tutorial you will learn how to make a moveable table view cell by using a long press gesture.
 
 ## How to do it?
@@ -159,7 +159,7 @@ func longPressGestureRecognized(longPress: UILongPressGestureRecognizer) {
 ```
 
 ## Demo
-You can download the demo.
+You can download the demo. :smile:
 
 ##Contact Info
 

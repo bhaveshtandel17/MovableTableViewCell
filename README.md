@@ -1,6 +1,8 @@
 # MovableTableViewCell :smile:
 In this tutorial you will learn how to make a moveable table view cell by using a long press gesture.
 
+<img class="center" src="./Resources/giphy.gif">
+
 ## How to do it?
 * [Add `UILongGestureRecognizer`](#add-longGestureRecognizer)
 * [Handle `UIGestureRecognizerState.began`](#handle-began)

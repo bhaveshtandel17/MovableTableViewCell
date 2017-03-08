@@ -83,7 +83,7 @@ private func customSnapshotFromView(inputView: UIView) -> UIView? {
   return snapshot
 }
 ```
-Using `.began1` case. If there is a valid index path, get the corresponding `UITableViewCell` and take a snapshot view of the table view cell using a helper method. 
+Using `.began` case. If there is a valid index path, get the corresponding `UITableViewCell` and take a snapshot view of the table view cell using a helper method. 
 Then add the new snapshot view to the table view and center it on the corresponding cell.
 
 ### Step 3: Handle `UIGestureRecognizerState.changed`  <a name="handle-changed"></a>
